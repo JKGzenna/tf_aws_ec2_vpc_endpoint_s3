@@ -1,0 +1,29 @@
+# Local .terraform directories
+**/.terraform/*
+.terraform.lock.hcl
+
+# Module directory
+.terraform/
+
+# .tfvars files
+*.tfvars
+
+.terraform.lock.hcl
+
+# Compiled .tfstate files
+*.tfstate
+*.tfstate.backup
+*.tfstate.* 
+
+# Vagrant
+**/.vagrant/*
+
+# Apple
+.DS_Store
+
+
+
+
+
+
+
